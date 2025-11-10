@@ -1,7 +1,7 @@
 {
   "name": "pro-sales-crm",
   "version": "0.1.0",
-  "homepage": "https://AhmedMagdyNoser.github.io/pro-sales-crm",
+  "homepage": "https://AhmedMagdyNusir.github.io/pro-sales-crm",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+    "lint": "eslint . --ext js,jsx"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
